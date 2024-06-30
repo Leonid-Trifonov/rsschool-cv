@@ -9,6 +9,7 @@
 I have experience in:\
 -legal support of operation of information systems at all stages of their life cycle, including preparation of operating instructions based on technical documentation  
 -participation in the informatization of business processes, including the introduction of an information system for automating the provision of services to customers
+
 ---
 ## Skills:
 + JavaScript
