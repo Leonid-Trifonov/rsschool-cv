@@ -1,1 +1,1 @@
-https://Leonid-Trifonov.github.io/rsschool-cv/cvg
+https://Leonid-Trifonov.github.io/rsschool-cv/cv
