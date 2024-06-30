@@ -56,7 +56,7 @@ Russian Academy of Justice (Lawyer)
 ---
 ## Languages:
 +
-Russian - native
+Russian - native (C2)
 +
 English - B2
 +
